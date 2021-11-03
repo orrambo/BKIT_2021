@@ -9,3 +9,6 @@ ___
 
 ### 3. [Функциональные возможности языка Python.](https://github.com/orrambo/BKIT_2021/tree/main/lab_3)
 ___
+___
+## Рубежные контроли:
+### [Рубежный контроль №1](https://github.com/orrambo/BKIT_2021/tree/main/rk1) 
