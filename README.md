@@ -9,6 +9,8 @@ ___
 ### 2. [Объектно-ориентированные возможности языка Python.](https://github.com/orrambo/BKIT_2021/tree/main/lab_2)
 
 ### 3. [Функциональные возможности языка Python.](https://github.com/orrambo/BKIT_2021/tree/main/lab_3)
+
+### 5. [Разработка простого бота для Telegram с использованием языка Python.](https://github.com/orrambo/BKIT_2021/tree/main/lab_5)
 ___
 ___
 ## Рубежные контроли:
