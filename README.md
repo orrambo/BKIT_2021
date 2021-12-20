@@ -10,6 +10,8 @@ ___
 
 ### 3. [Функциональные возможности языка Python.](https://github.com/orrambo/BKIT_2021/tree/main/lab_3)
 
+### 4. [Шаблоны проектирования и модульное тестирование в Python.](https://github.com/orrambo/BKIT_2021/tree/main/lab_4)
+
 ### 5. [Разработка простого бота для Telegram с использованием языка Python.](https://github.com/orrambo/BKIT_2021/tree/main/lab_5)
 ___
 ___
